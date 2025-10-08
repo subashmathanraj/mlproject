@@ -1,4 +1,7 @@
 pandas
 numpy
 torch
--e .
+matplotlib
+seaborn
+scikit-learn
+##-e .
